@@ -1,0 +1,88 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-image: url("landscape.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+
+}
+.top-section {
+    color: #081045;
+    padding: 20px;
+    opacity: 0.67;
+    background: linear-gradient(to left,#bad9f9 ,#ddf8f9, #47e0bd);
+    letter-spacing: 1px;
+    text-align: left;
+    font-size: 15px;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+}
+   
+
+}
+h3{
+	color:aliceblue;
+	font-family: 'Montserrat', sans-serif;
+	font-size:50px;
+	letter-spacing:3px;
+} 
+
+.formdetails{
+    
+    padding:30px;
+    border: 2px;
+   background-color: #f0f2f4;
+    border-color: #99d9ec;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    border-style: solid;  
+
+}
+.container-form{
+    background-color:white;  
+}
+label
+ {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 500;
+    color: #0c385f; 
+    float:left;
+}
+
+legend {
+    display: block;
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    line-height: initial;
+    color: #0c385f;
+    border: 0;
+    border-bottom: 1px solid #ceebf9;
+    float: left;
+}
+
+.navbar-inverse {
+      background: #041d2f;
+      color: white;
+    }
+    .navbar-inverse .navbar-brand,.navbar-inverse a{
+      color:white;
+    }
+    .navbar-inverse .navbar-nav>li>a {
+      color: white;
+    } 
+
+
+.col-md-10{
+	position: relative;
+    padding-right:25px;
+    float: left;
+    padding-left: 2px;
+}
+}
